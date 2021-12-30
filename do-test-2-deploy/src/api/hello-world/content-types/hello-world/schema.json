@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "hello_worlds",
+  "info": {
+    "singularName": "hello-world",
+    "pluralName": "hello-worlds",
+    "displayName": "hello-world"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "success": {
+      "type": "string"
+    }
+  }
+}
